@@ -2,8 +2,7 @@
 # TabiZoo Bot 
 TabiZoo Bot
 
-Register Here : [TabiZoo](https://t.me/tabizoobot/tabizoo?startapp=2Uaidk)
-
+Register Here : [TabiZoo](https://t.me/tabizoobot/tabizoo?startapp=2UajUu)
  
 ## Features
     - Auto claim
