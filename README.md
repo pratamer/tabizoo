@@ -28,3 +28,5 @@ Install with python
     - python faucet.py
 
 ![SS](https://i.ibb.co.com/r27kJTm/Cuplikan-layar-2024-07-11-215835.png)
+
+credit to Ghalibie
